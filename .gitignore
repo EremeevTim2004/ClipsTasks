@@ -1,0 +1,8 @@
+*.exe
+*.a
+*.o
+
+.vscode/
+.trunk/
+
+*.clp
